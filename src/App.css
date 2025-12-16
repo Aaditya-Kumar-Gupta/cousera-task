@@ -9,4 +9,12 @@ body {
   background-position: center;
   height: 100vh;
   color: white;
+  text-align: center;
+  padding-top: 150px;
+}
+
+button {
+  padding: 10px 20px;
+  margin: 5px;
+  cursor: pointer;
 }

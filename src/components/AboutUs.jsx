@@ -3,8 +3,8 @@ const AboutUs = () => {
     <div style={{ padding: "20px" }}>
       <h2>About Paradise Nursery</h2>
       <p>
-        Paradise Nursery is dedicated to bringing greenery into your home.
-        We offer a wide selection of healthy, affordable houseplants.
+        Paradise Nursery provides high-quality indoor plants to help you
+        bring nature into your home.
       </p>
     </div>
   );
